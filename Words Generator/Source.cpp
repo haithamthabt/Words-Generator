@@ -1,4 +1,4 @@
-// Purpose: To generate all the possible words from number of letters
+// Purpose: To generate all the possible words that has either three letters or two letters
 // Author's Name: Haitham Thab
 // Creation Date: 11/24/2015
 // Modification Date: 11/24/2015
